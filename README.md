@@ -60,3 +60,4 @@ Based on all the information gathered about Linen i would suggest the following 
 - direct connection to traditional bank accounts using API's and services like Plaid that would allow easy access to funds for traditional spending.
 
 Having multiple yield products will give consumers more options and thus encourage more users to utilize the service and having a direct API technologies to connect with traditional banks will allow most users to have an easier transition into the cryptocurrency and blockchain industry.
+
