@@ -46,7 +46,7 @@ As linen is still in an early stage of development , they have no created a big 
 
 Some Basic Metrics to consider for any mobile app are user engagement and retention. unfortunately these Metrics and KPI's are not disclosed by Linen yet but a a quick look through Alexa Rank does show a growing interest in the website user and visit statistics as shown below
 
-[![Alexa Rank](linen_wallet/alexa_rank.png)](https://www.alexa.com/siteinfo/linen.app)
+[![Alexa Rank](Linen_Wallet/alexa_rank.png)](https://www.alexa.com/siteinfo/linen.app)
 
 however some other metrics like engagement and daily time on the sit do show  a slight decline. If we consider the same Alexa rank for a competitor like Argent which has a rank of 38,273 we can see that linen still has some room to capture those Argent users.
 
